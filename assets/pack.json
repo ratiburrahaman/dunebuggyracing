@@ -1,0 +1,163 @@
+{
+    "preload": {
+      "files": [
+        {
+          "type": "image",
+          "key": "title",
+          "url": "./assets/images/title.png"
+        },
+        {
+            "type": "image",
+            "key": "bg-menu",
+            "url": "./assets/images/bg-menu.png"
+        },
+        {
+            "type": "image",
+            "key": "button-play",
+            "url": "./assets/images/button-play.png"
+        },
+        {
+            "type": "image",
+            "key": "bg",
+            "url": "./assets/images/bg.png"
+        },
+        {
+            "type": "image",
+            "key": "bg-left",
+            "url": "./assets/images/bg-left.png"
+        },
+        {
+            "type": "image",
+            "key": "bg-right",
+            "url": "./assets/images/bg-right.png"
+        },
+        {
+            "type": "image",
+            "key": "road",
+            "url": "./assets/images/road.png"
+        },
+        {
+          "type": "image",
+          "key": "highlight1",
+          "url": "./assets/images/highlight1.png"
+        },
+        {
+          "type": "image",
+          "key": "highlight2",
+          "url": "./assets/images/highlight2.png"
+        },
+        {
+          "type": "image",
+          "key": "highlight3",
+          "url": "./assets/images/highlight3.png"
+        },   
+        {
+          "type": "image",
+          "key": "highlight4",
+          "url": "./assets/images/highlight4.png"
+        },
+        {
+          "type": "image",
+          "key": "panel-gameover",
+          "url": "./assets/images/panel-gameover.png"
+        },
+        {
+          "type": "image",
+          "key": "button-home",
+          "url": "./assets/images/button-home.png"
+        },
+        {
+          "type": "image",
+          "key": "button-restart",
+          "url": "./assets/images/button-restart.png"
+        },
+        {
+          "type": "spritesheet",
+          "key": "player",
+          "url": "./assets/images/player.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "enemy1",
+          "url": "./assets/images/enemy1.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "enemy2",
+          "url": "./assets/images/enemy2.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "enemy3",
+          "url": "./assets/images/enemy3.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "enemy4",
+          "url": "./assets/images/enemy4.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        }, 
+         {
+          "type": "spritesheet",
+          "key": "enemy5",
+          "url": "./assets/images/enemy5.png",
+          "frameConfig": {
+            "frameWidth": 130,
+            "frameHeight" : 220
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "dusttrail",
+          "url": "./assets/images/dusttrail.png",
+          "frameConfig": {
+            "frameWidth": 208,
+            "frameHeight" : 280
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "explosion",
+          "url": "./assets/images/explosion.png",
+          "frameConfig": {
+            "frameWidth": 478,
+            "frameHeight" : 382
+          }
+        },
+        {
+          "type": "audio",
+          "key": "click",
+          "url": "./assets/audios/click.ogg"
+        },
+        {
+          "type": "audio",
+          "key": "explose",
+          "url": "./assets/audios/explose.ogg"
+        },
+        {
+          "type": "audio",
+          "key": "skid",
+          "url": "./assets/audios/skid.ogg"
+        }
+      ]
+    }
+}
